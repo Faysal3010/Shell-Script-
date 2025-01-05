@@ -2,9 +2,9 @@
 
 #!/bin/bash
 
-asad() {
-    echo "This message shown by Md Asaduzzaman.And his Id is 221-35-858 from section 'E' "
-    echo "Owner: Md Asaduzzaman(221-35-858)" 
+Fx() {
+    echo "This message shown by Faysal Mahmud. And his Id is 221-35-858 from section 'E' "
+    echo "Owner: Faysal Mahmud(221-35-906)" 
 }
 
 echo "Enter a string:"
